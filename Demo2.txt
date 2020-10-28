@@ -1,5 +1,61 @@
-aaa
-bbb
-ccc
-ddd
-按时发放
+1、VIP地址资料链接：http://mashibing.com/pc.html
+2、课程安排链接：https://s1.mashibing.com/selectuser
+3、Gitlab资料下载地址：http://git.mashibing.com/bjmashibing
+
+
+【入学资料】
+💕VIP课程、资料链接：http://www.mashibing.com/vip.html
+这个是重点❣️重点❣️重点❣️
+💕一定要在电脑端使用哟~
+
+💕直播课预告链接：https://s1.mashibing.com/selectuser
+
+
+Gitlab账号是huj，密码是huj1016，您点击这个链接进入，地址链接：http://git.mashibing.com/bjmashibing，
+GitHub hj1016     huj1016
+第一，先去看马老师的面试指导课，一共三节
+课程地址：http://mashibing.com/pc.html
+电脑网页端打开点击后面的地址可以直接看课
+手机端看课：下载腾讯课堂APP，找到架构的课程订单，点击开始上课，选择架构一期，对应VIP地址前面的序号找一下哦
+
+第二，看面试中常考的技术点，jvm，多线程，redis，zookeeper，mysql调优，设计模式
+课程地址：http://mashibing.com/pc.html
+资料地址：
+多线程高并发：http://git.mashibing.com/bjmashibing/JUC
+JVM调优：http://git.mashibing.com/bjmashibing/JVM
+设计模式（看坦克大战一期）：http://git.mashibing.com/bjmashibing/tank  、 https://note.youdao.com/ynoteshare1/index.html?id=3cffc4f2f5185a0d83050a1d59b9ec93&type=notebook
+Redis：http://git.mashibing.com/bjmashibing/InternetArchitect/-/tree/master/09%20Redis
+ZooKeeper：http://git.mashibing.com/bjmashibing/InternetArchitect/-/tree/master/10%20Zookeeper
+mysql调优：
+http://git.mashibing.com/bjmashibing/InternetArchitect/-/tree/master/13mysql%E8%B0%83%E4%BC%98
+
+第三，架构师三期的springcloud+网约车的第三版
+课程地址：http://mashibing.com/pc.html
+三期课程链接：https://ke.qq.com/course/398381?tuin=b09cbb87#term_id=101809137
+三期资料地址：http://git.mashibing.com/bjmashibing/InternetArchitect/-/tree/master/20%20%E6%9E%B6%E6%9E%84%E5%B8%88%E4%B8%89%E6%9C%9F%20SpringCloud%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84
+网约车第三版课程（架构二期41-73节课）链接：https://ke.qq.com/course/398381?tuin=b09cbb87#term_id=100558952
+资料地址：http://git.mashibing.com/bjmashibing/online-taxi-file/-/tree/master/%E4%B8%89%E6%9C%9F
+
+第四，架构五期源码课程
+课程地址：https://ke.qq.com/course/398381?tuin=b09cbb87
+资料地址：http://git.mashibing.com/lianpengju/lianpengju
+
+第五，去听马老师讲的操作系统底层知识和周老师讲的io
+课程地址：http://mashibing.com/pc.html
+资料地址：
+操作系统底层知识：http://mashibing.com/doc/
+内存与IO，磁盘IO，网络IO：
+http://git.mashibing.com/bjmashibing/bjmashbing-sysio
+
+第六，去看亿级流量多级缓存项目
+课程地址：http://mashibing.com/pc.html，
+资料地址：http://git.mashibing.com/bjmashibing/InternetArchitect/-/tree/master/12%20%E4%BA%BF%E7%BA%A7%E6%B5%81%E9%87%8F%E5%A4%9A%E7%BA%A7%E7%BC%93%E5%AD%98%E9%AB%98%E5%B9%B6%E5%8F%91%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%AE%9E%E6%88%98
+
+第七，消息中间件
+课程地址：http://mashibing.com/pc.html，（ctrl+f搜索消息中间件）
+资料地址：http://git.mashibing.com/bjmashibing/InternetArchitect/-/tree/master/16%20%E4%B8%80%E6%9C%9F%20%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6
+
+数据库中间件
+课程地址：https://ke.qq.com/course/2588256
+资料地址：http://git.mashibing.com/bjmashibing/InternetArchitect/-/tree/master/23%20mycat
+http://git.mashibing.com/bjmashibing/InternetArchitect/-/tree/master/24shardingsphere
